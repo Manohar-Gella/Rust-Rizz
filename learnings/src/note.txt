@@ -1,0 +1,2 @@
+open iterm
+run command `cargo init`
